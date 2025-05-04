@@ -5,15 +5,6 @@
 
 This project demonstrates the application of the Theory of Computation (TOC), specifically Context-Free Grammars (CFGs), to build a syntax analyzer for arithmetic expressions. A Python-based program is developed to parse and validate expressions involving basic arithmetic operations (addition, subtraction, multiplication, division, exponentiation, modulus) and trigonometric functions. This project illustrates how CFGs can be used to define the syntax of a language and how a simple parser can be implemented based on these grammars.
 
-This project was undertaken by:
-
-* Neha V (P03CJ24S126062)
-* Sahana SB (P03CJ24S126084)
-* Pushpalatha T (P03CJ24S126077)
-* Veena BB (P03CJ24S126115)
-
-Submitted to Prof. Akshatha, DSCASC.
-
 ## Table of Contents
 
 * [Introduction](#introduction)
